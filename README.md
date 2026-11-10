@@ -6,7 +6,7 @@
 
 **A live, two-person browser call copilot for a Telugu-English land seller and a Hinglish buyer.** The call remains between the two people. Maatla listens to their separate microphones and shows speaker-labelled captions. A private Telugu text gist appears as soon as Prisma returns a buyer speech segment; a complete turn cue and next move follow after the buyer pauses. The seller edits a Hinglish reply, reviews its freshly translated Telugu meaning, and approves it before Gnani Timbre speaks the Hinglish text to the buyer. Telugu coach audio is available only on demand.
 
-[Watch the 43-second API-backed demo](docs/demo/Maatla-fast-text-60s.mp4) · [One-page submission brief (PDF)](docs/Maatla-submission-one-page.pdf)
+[Watch the 43-second highlight](docs/demo/Maatla-fast-text-60s.mp4) · [Watch the full 3-minute-23-second walkthrough](docs/demo/Maatla-fast-text-full.mp4) · [One-page submission brief (PDF)](docs/Maatla-submission-one-page.pdf)
 
 ## Project explanation for the Gnani AI challenge
 
